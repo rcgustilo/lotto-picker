@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lotto Picker</string>
+    <string name="widget_desc">Next PCSO jackpot draw, current prize, latest numbers and a lucky pick</string>
+</resources>
